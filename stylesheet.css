@@ -1,0 +1,50 @@
+.clear:after{
+  content: "";
+  display: block;
+  clear: both;
+}
+body{
+  font-family: 微軟正黑體 Black;
+  font-weight: regular;
+  margin: 0;
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #eeeeee;
+  //overflow-y:hidden;
+  position:relative;
+}
+
+.im{
+  position: absolute;
+  top:82px;
+  left:402px;
+}
+
+.bc{
+  position: absolute;
+  top:82px;
+  left:402px;
+  border: 1px solid black;
+  width: 476px;
+  height: 476px;
+  border-radius: 100%;
+}
+.uc{
+  position: absolute;
+  top:82px;
+  left:521px;
+  border: 1px solid black;
+  width: 238px;
+  height: 238px;
+  border-radius: 100%;
+}
+.dc{
+  position: absolute;
+  top:320px;
+  left:521px;
+  border: 1px solid black;
+  width: 238px;
+  height: 238px;
+  border-radius: 100%;
+}
