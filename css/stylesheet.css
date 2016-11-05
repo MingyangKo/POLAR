@@ -11,7 +11,7 @@ body{
   margin-left: auto;
   margin-right: auto;
   background-color: #eeeeee;
-  overflow-y:hidden;
+  //overflow-y:hidden;
   position:relative;
 }
 
