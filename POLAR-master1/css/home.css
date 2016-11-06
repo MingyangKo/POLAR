@@ -1,0 +1,38 @@
+body{
+  max-width: 1280px;
+  /*overflow: hidden;*/
+}
+
+.biggerleft{
+  width: 320px;
+  height: 320px;
+  border-radius: 100%;
+  position: absolute;
+  left:480px;
+  top:160px;
+  /*border: 1px solid white;*/
+}
+.biggerright :hover{
+ display:block;
+}
+.b{
+  /*width: 320px;
+  height: 320px;
+  border-radius: 100%;
+  position: absolute;
+  left:3040px;
+  top:160px;*/
+  /*border: 1px solid white;*/
+    display: none;
+
+}
+
+
+
+/*.biggerright :hover{
+  width: 640px;
+  height: 640px;
+  left:2880px;
+  top:0;
+  display: block;
+}*/

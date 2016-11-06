@@ -1,0 +1,20 @@
+.clear:after{
+  content: "";
+  display: block;
+  clear: both;
+}
+body{
+  font-family: 微軟正黑體 Black;
+  font-weight: regular;
+  /*max-width: 1280px;*/
+  margin: auto;
+  background-color: #eeeeee;
+  /*position:relative;*/
+  /*padding-top: 50px;*/
+}
+
+.im{
+  position: absolute;
+  top:122px;
+  left:402px;
+}
